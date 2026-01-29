@@ -5,7 +5,7 @@ export default function HeroSection() {
       {/* Avatar: replace `public/me.jpg` with your photo file */}
       <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-accent">
         <img
-          src="/me.jpg"
+          src="/zamora.png"
           alt="Caster Zamora"
           className="w-full h-full object-cover"
         />
